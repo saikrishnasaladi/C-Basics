@@ -1,0 +1,18 @@
+#include<stdio.h>
+void main()
+{
+	int a,b;
+	a = 20;
+	b = 10;
+	printf("a =%d\n",a);
+	printf("b =%d\n",b);
+	printf("%d>%d -->%d\n",a,b,a>b);
+	printf("%d>=%d -->%d\n",a,b,a>=b);
+	printf("%d<%d -->%d\n",a,b,a<b);
+	printf("%d<=%d -->%d\n",a,b,a<=b);
+	printf("%d==%d -->%d\n",a,b,a==b);
+	printf("%d!=%d -->%d\n",a,b,a!=b);
+	
+	
+	
+}
